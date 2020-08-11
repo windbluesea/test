@@ -2,3 +2,5 @@ aa
 git commit
 git 
 b2git
+b2
+git add .
